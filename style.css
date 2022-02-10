@@ -1,0 +1,38 @@
+body{
+  background-color: #ffffff;
+  color: #666666;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+h1{
+  background-color: #000033;
+  color: #ffffff;
+  line-hieght: 200%;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+h2{
+
+  color: #3399cc;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+nav{
+  font-weight: bold;
+  background-color: #90c7e3;
+}
+
+resort{
+  color: #000033;
+  font-size: 1.2em;
+}
+
+footer{
+  font-size: .70em;
+  text-align: center;
+}
+
+dt{
+  color: #000033;
+  font-weight: bold;
+}
